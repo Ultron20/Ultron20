@@ -22,9 +22,8 @@
 ---
 
 ## 📌 Projects
-- 🔹 **Log Analysis Tool (Python)**
-- 🔹 **ML-based Speech Recognition Bot with GUI**
-- 🔹 **Disease Prediction & Doctor Appointment System**
+-  **Log Analysis Tool (Python)**
+-  **Disease Prediction & Doctor Appointment System**
 
 👉 Check repositories below 👇
 
