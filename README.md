@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ranabir Basak</h1>
+<h3 align="center">Final Year CSE Student | Python Developer | Machine Learning Engineer</h3>
 
-<!--
-**Ultron20/Ultron20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Final year Computer Science Engineering student
+- 🐍 Python developer with interest in backend & automation
+- 🔐 Machine Learning Engineer
+- ⚽ Football lover 
+- 💡 Always learning & building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+- **Languages:** Python, SQL, C
+- **Frameworks:** Django (Basics)
+- **Databases:** MySQL, Oracle
+- **Tools:** Git, GitHub, Linux
+- **Concepts:** OOPs, DBMS, Networking Basics, Machine Learning
+
+---
+
+## 📌 Projects
+- 🔹 **Log Analysis Tool (Python)**
+- 🔹 **ML-based Speech Recognition Bot with GUI**
+- 🔹 **Disease Prediction & Doctor Appointment System**
+
+👉 Check repositories below 👇
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ultron20&show_icons=true&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔗 Connect With Me
+- 💼 LinkedIn: www.linkedin.com/in/ranabir-basak-774a37256
+- 📧 Email: ranairbasak2004@gmail.com
