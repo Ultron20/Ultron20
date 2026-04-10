@@ -16,7 +16,7 @@
 - **Languages:** Python, SQL, C
 - **Frameworks:** Django (Basics)
 - **Databases:** MySQL, Oracle
-- **Tools:** Git, GitHub, Linux
+- **Tools:** Git, GitHub, Linux, VS code
 - **Concepts:** OOPs, DBMS, Networking Basics, Machine Learning
 
 ---
